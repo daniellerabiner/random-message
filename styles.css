@@ -1,0 +1,23 @@
+.dan{
+background-color: white;
+text-align: center;
+
+}
+.yes{
+  background-color:#FFAFF5;
+  border:none;
+  height:100px;
+  width:200px;
+  font-family: monospace;
+  font-size: 20px;
+}
+.bob{
+  text-align: center;
+}
+.jo{
+  text-align: center;
+    background-color: white;
+}
+body{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/113/563/non_2x/vector-outline-floral-pattern.jpg);
+}
